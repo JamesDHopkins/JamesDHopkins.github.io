@@ -1,0 +1,15 @@
+p {
+	font-size: 36 px;
+	color: gray;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: gray;
+}
+
+body{
+	font-family: "Lucida Console", Serif, Times;
+	background-color: #F0F8FF;
+}
