@@ -17,5 +17,5 @@ body {
 .resize {
 	height: 600px;
 	width: auto;
-	align-items: center;
+	align-content: center;
 }
