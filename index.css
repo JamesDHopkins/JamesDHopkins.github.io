@@ -14,8 +14,11 @@ body {
 	background-color: #F0F8FF;
 }
 
+img {
+	align-self: center;
+}
+
 .resize {
 	height: 600px;
 	width: auto;
-	align-content: center;
 }
