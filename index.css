@@ -14,8 +14,9 @@ body {
 	background-color: #F0F8FF;
 }
 
-img {
-	align-self: center;
+img.center {
+	display: block;
+	margin: 0 auto;
 }
 
 .resize {
