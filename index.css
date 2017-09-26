@@ -1,5 +1,5 @@
 p {
-	font-size: 36 px;
+	font-size: 36px;
 	color: gray;
 	text-align: center;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 .resize {
-	height: 600 px;
+	height: 600px;
 	width: auto;
 	align-items: center;
 }
