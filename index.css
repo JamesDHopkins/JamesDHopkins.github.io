@@ -13,3 +13,9 @@ body{
 	font-family: "Lucida Console", Serif, Times;
 	background-color: #F0F8FF;
 }
+
+image{
+	height: 50%;
+	width: 50%;
+	align-items: center;
+}
