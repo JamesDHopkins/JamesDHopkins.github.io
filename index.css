@@ -21,4 +21,5 @@ img {
 .resize {
 	height: 600px;
 	width: auto;
+	justify-content: center;
 }
