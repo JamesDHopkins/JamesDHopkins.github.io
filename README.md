@@ -1,5 +1,7 @@
 # JamesDHopkins.github.io
 
+NOTE: School Project. Resume now out of date.
+
 1. All aspects of the work have been correctly implemented to the best of
 	my knowledge
 
